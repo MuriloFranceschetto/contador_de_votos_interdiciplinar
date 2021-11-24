@@ -1,3 +1,71 @@
 {
-    "awdawd": "awdawdwa"
+    "votes": [
+        {
+            "id": "049abc1f-2155-4286-8185-c5f7f31d591b",
+            "machineId": "8dad896e-8f77-5aef-a4dc-4341fc214381",
+            "isBlank": false,
+            "isValid": false
+        },
+        {
+            "id": "012239f7-96f2-4046-ab8c-a86e7a5e7d50",
+            "machineId": "8dad896e-8f77-5aef-a4dc-4341fc214381",
+            "isBlank": true,
+            "isValid": false
+        },
+        {
+            "id": "047be4b8-8001-46f2-80fb-c35139e86736",
+            "machineId": "8dad896e-8f77-5aef-a4dc-4341fc214381",
+            "isBlank": false,
+            "isValid": false
+        },
+        {
+            "id": "1c0cf344-9a04-412d-accc-d03561e8a3e8",
+            "machineId": "8dad896e-8f77-5aef-a4dc-4341fc214381",
+            "candidate": {
+                "id": 1,
+                "name": "Curupira",
+                "number": 95,
+                "photo": "/8ebbb7a9668f466868d9a1eb9f130904.png"
+            },
+            "isBlank": false,
+            "isValid": true
+        },
+        {
+            "id": "a3c38e80-00f2-4991-b1c1-52f6f0ff98ba",
+            "machineId": "8dad896e-8f77-5aef-a4dc-4341fc214381",
+            "isBlank": true,
+            "isValid": false
+        },
+        {
+            "id": "2dc9de37-647a-4e90-b826-15e8d96aed80",
+            "machineId": "8dad896e-8f77-5aef-a4dc-4341fc214381",
+            "candidate": {
+                "id": 2,
+                "name": "Cuca",
+                "number": 23,
+                "photo": "/bf03e746e5eafaf7192663411349039f.png"
+            },
+            "isBlank": false,
+            "isValid": true
+        }
+    ],
+    "date": "2021-11-04T23:00:06.590Z",
+    "machineId": "8dad896e-8f77-5aef-a4dc-4341fc214381",
+    "totalVotes": 6,
+    "candidates": [
+        {
+            "id": 1,
+            "name": "Curupira",
+            "number": 95,
+            "photo": "/8ebbb7a9668f466868d9a1eb9f130904.png"
+        },
+        {
+            "id": 2,
+            "name": "Cuca",
+            "number": 23,
+            "photo": "/bf03e746e5eafaf7192663411349039f.png"
+        }
+    ],
+    "totalValidVotes": 2,
+    "totalInvalidVotes": 4
 }
