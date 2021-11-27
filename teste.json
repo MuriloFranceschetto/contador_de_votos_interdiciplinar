@@ -13,6 +13,12 @@
             "isValid": false
         },
         {
+            "id": "a3c38e80-00f2-4991-b1c1-52f6f0ff98ba",
+            "machineId": "8dad896e-8f77-5aef-a4dc-4341fc214381",
+            "isBlank": true,
+            "isValid": false
+        },
+        {
             "id": "047be4b8-8001-46f2-80fb-c35139e86736",
             "machineId": "8dad896e-8f77-5aef-a4dc-4341fc214381",
             "isBlank": false,
@@ -29,12 +35,6 @@
             },
             "isBlank": false,
             "isValid": true
-        },
-        {
-            "id": "a3c38e80-00f2-4991-b1c1-52f6f0ff98ba",
-            "machineId": "8dad896e-8f77-5aef-a4dc-4341fc214381",
-            "isBlank": true,
-            "isValid": false
         },
         {
             "id": "2dc9de37-647a-4e90-b826-15e8d96aed80",
